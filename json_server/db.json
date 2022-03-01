@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "ten": "truong",
+      "tuoi": 18
+    }
+  ],
+  "book": [
+    {
+      "id": 1,
+      "image": "https://1.bp.blogspot.com/-98Qr5yKmRSk/YQP-Wbk0xkI/AAAAAAAAvo4/7qMJ5koyV70Ji0FXltksciHPJnj2DwrdACNcBGAsYHQ/s0/bia-sach.jpg",
+      "title": "sach 1"
+    },
+    {
+      "image": "https://d1j8r0kxyu9tj8.cloudfront.net/images/1567492493udADCq8hF8EzKXI.jpg",
+      "title": "Sach 2",
+      "id": 2
+    },
+    {
+      "image": "https://thegioidohoa.com/wp-content/uploads/2017/08/tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-7.jpg",
+      "title": "Sach 3",
+      "id": 3
+    },
+    {
+      "image": "https://d1j8r0kxyu9tj8.cloudfront.net/images/1567492493udADCq8hF8EzKXI.jpg",
+      "title": "Sach 4",
+      "id": 4
+    },
+    {
+      "image": "https://thegioidohoa.com/wp-content/uploads/2017/08/tong-hop-20-mau-bia-sach-doc-dao-nhat-nam-2017-7.jpg",
+      "title": "sach 5",
+      "id": 5
+    }
+  ],
+  "model": [
+    {
+      "image": "http://image.congan.com.vn/thumbnail/CATP-480-2021-4-10/hh.jpg",
+      "name": "Hoa hậu Tiểu Vi",
+      "age": "20",
+      "description": "Hoa hậu Du lịch Thế giới 2019 được yêu thích nhất Tường Vy là một trong hai gương mặt đại sứ của sân chơi nhan sắc “Người mẫu thể hình Việt Nam 2021”. Chương trình có nhiều hoạt động đến với cộng đồng, trẻ em nghèo.",
+      "id": 1
+    },
+    {
+      "image": "https://vnn-imgs-f.vgcloud.vn/2022/01/07/22/kim-phung-gianh-a-quan-nguoi-mau-the-hinh-viet-nam-2021-2.jpeg",
+      "name": "Hoa hậu Kim Phụng",
+      "age": "25",
+      "description": "Nguyễn Kim Phụng sinh năm 1993, quê gốc tại Đồng Nai, hiện cô đang sinh sống và làm việc tại TP.HCM. Người đẹp từng tốt nghiệp khoa Quản trị kinh doanh quốc tế tại trường Đại học công nghiệp TP.HCM.",
+      "id": 2
+    },
+    {
+      "image": "https://vnn-imgs-a1.vgcloud.vn/sohanews.sohacdn.com/2019/10/15/duong-yen-nhung-2-15711576968131550115242.jpg",
+      "name": "Dương Yến Nhung",
+      "age": "22",
+      "description": "Dương Yến Nhung từng tốt nghiệp Học viện Hàng không Việt Nam, năm 2016 cô đạt giải á khôi 1 \"Hoa khôi nhan sắc Việt Nam\" và \"Người đẹp nhân ái\". Sau cuộc thi, chân dài gốc Nha Trang hoạt động người mẫu và kinh doanh thời trang, nhà hàng.",
+      "id": 3
+    },
+    {
+      "image": "https://vnn-imgs-f.vgcloud.vn/2022/01/07/22/kim-phung-gianh-a-quan-nguoi-mau-the-hinh-viet-nam-2021-2.jpeg",
+      "name": "Hoa hậu Kim Phụng",
+      "age": "20",
+      "description": "Nguyễn Kim Phụng sinh năm 1993, quê gốc tại Đồng Nai, hiện cô đang sinh sống và làm việc tại TP.HCM. Người đẹp từng tốt nghiệp khoa Quản trị kinh doanh quốc tế tại trường Đại học công nghiệp TP.HCM.",
+      "id": 4
+    }
+  ],
+  "todoList": [
+    {
+      "description": "dasdad",
+      "id": 1,
+      "isCheck": true
+    },
+    {
+      "description": "dsfsfsf",
+      "id": 2,
+      "isCheck":false
+    }
+  ]
+}
